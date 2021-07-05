@@ -2,6 +2,11 @@
 // Welcome to CodeComments.dev
 // 
 
+//
+// This file will explain the purpose of CodeComments.dev
+// When $('#you).ready() you can explore more by following clicking the other file links on the left
+//
+
 function why() {
     let problem = "Comments on code are provided in an unstructured way";
     let example = "On line 7 you're calling a variable which doesn't exist, and I hate what you've done on line 19";
@@ -27,3 +32,7 @@ function codeCommentsDotDev() {
 
     }
 }
+
+$('you').ready(function(){
+    explore(moreLinksOnTheLeft);
+});
