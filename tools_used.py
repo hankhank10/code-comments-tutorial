@@ -1,14 +1,13 @@
-# Back end core technologies
+# Backend core
 import python3
 import flask
 import mysql
-from linux import debian
-from nginx import reverse_proxy
 import gunicorn
+from nginx import reverse_proxy
+from linux import debian
 
-# Front end core technologies
-import html, css  #obviously
-import javascript
+# Frontend core
+import basics import html, css, js
 from jquery import notMuch
 
 # UI
