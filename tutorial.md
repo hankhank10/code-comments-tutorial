@@ -4,11 +4,12 @@ This tutorial will help you get started with [CodeComments.dev](http://codecomme
 
 ## Quick Start
 
-A great place to start is by creating your first comment.
+CodeComments.dev is all about allowing you to create comments on scripts. Comments are marked by stars
+on the left hand side.
+
+There are currently no comments on this script, so why not create one.
 
 You can do it right here in this document by clicking one of the plus icons that you can see to the left
-
-<-----
 
 Each line of each script can have a comment associated with it. You can add, edit and delete these
 comments as you wish.
