@@ -2,8 +2,9 @@
 import python3
 import flask
 import mysql
-import debian
-import nginx_reverse_proxy
+from linux import debian
+from nginx import reverse_proxy
+import gunicorn
 
 # Front end core technologies
 import html, css  #obviously
@@ -11,14 +12,14 @@ import javascript
 from jquery import notMuch
 
 # UI
-import halfmoon_css
-import fontawesome_icons
-import lineicons
+import halfmoon_css         # https://www.gethalfmoon.com/
+import fontawesome_icons    # https://fontawesome.com/
+import lineicons            # https://lineicons.com/
 
 # Javascript libraries
-import highlight_js
-import simplemde
-import livestamp_js
+import highlight_js         # https://highlightjs.org/
+import simplemde            # https://simplemde.com/
+import livestamp_js         # https://mattbradley.github.io/livestampjs/
 
 # Python libraries
 import flask
