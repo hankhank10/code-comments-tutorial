@@ -1,4 +1,7 @@
-def supported_languages(language):
+# The site supports quite a lot of languages
+# all thanks to the magic of highlight.js
+
+def is_supported(language):
     if language == "python": return "YES!"
     if language == "javascript": return "Of course"
     if language == "html": return "👍"
