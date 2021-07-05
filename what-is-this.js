@@ -29,7 +29,6 @@ function codeCommentsDotDev() {
 
     is (secrecyRequired > 0) {
         suitable = false;
-
     }
 }
 
