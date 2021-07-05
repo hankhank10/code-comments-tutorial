@@ -1,3 +1,7 @@
+//
+// Welcome to CodeComments.dev
+// 
+
 function why() {
     let problem = "Comments on code are provided in an unstructured way";
     let example = "On line 7 you're calling a variable which doesn't exist, and I hate what you've done on line 19";
