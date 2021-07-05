@@ -14,8 +14,6 @@ from jquery import notMuch
 import halfmoon_css         # https://www.gethalfmoon.com/
 import fontawesome_icons    # https://fontawesome.com/
 import lineicons            # https://lineicons.com/
-
-# Javascript libraries
 import highlight_js         # https://highlightjs.org/
 import simplemde            # https://simplemde.com/
 import livestamp_js         # https://mattbradley.github.io/livestampjs/
