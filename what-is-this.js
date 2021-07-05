@@ -4,7 +4,7 @@
 
 //
 // This file will explain the purpose of CodeComments.dev
-// When $('#you).ready() you can explore more by following clicking the other file links on the left
+// When $('#you').ready() you can explore more by following clicking the other file links on the left
 //
 
 function why() {
