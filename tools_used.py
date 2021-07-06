@@ -17,6 +17,7 @@ import lineicons            # https://lineicons.com/
 import highlight_js         # https://highlightjs.org/
 import simplemde            # https://simplemde.com/
 import livestamp_js         # https://mattbradley.github.io/livestampjs/
+import typewriter_js        # https://safi.me.uk/typewriterjs/
 
 # Python libraries
 import flask
