@@ -7,7 +7,7 @@ from nginx import reverse_proxy
 from linux import debian
 
 # Frontend core
-import basics import html, css, js
+from basics import html, css, js
 from jquery import notMuch
 
 # UI
